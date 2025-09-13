@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Garimatomar0598/International--Currency-Converter",
+  
   "name": "currency-convertor",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
